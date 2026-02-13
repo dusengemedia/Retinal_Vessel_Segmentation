@@ -27,6 +27,11 @@ Jean De Dieu Niyonteze⁸
 ⁷ Department of Computer Science, Abilene Christian University, Abilene, Texas, United States  
 ⁸ Goizueta Business School, Emory University, Atlanta, GA, United States  
  
+ ![IEEE](https://img.shields.io/badge/Conference-IEEE%20ICARC%202026-blue)
+![Python](https://img.shields.io/badge/Python-3.10-green)
+![Framework](https://img.shields.io/badge/Framework-PyTorch-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ##  Project Overview
 

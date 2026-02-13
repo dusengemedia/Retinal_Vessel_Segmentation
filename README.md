@@ -95,15 +95,15 @@ We adopt **U-Net++** for retinal vessel segmentation due to its strong ability t
 **Fig. 1–3:** Training/Validation Curves for RETA Benchmark  
 - Dice coefficient, Accuracy, and Loss plotted across 5 folds  
 
-![Dice Score](images\dice.png "Dice Score")
-![Accuracy](images\Accuracy.png "Accuracy")
-![Loss](images\loss.png "Loss")
+![Dice Score](images/dice.png "Dice Score")
+![Accuracy](images/Accuracy.png "Accuracy")
+![Loss](images/loss.png "Loss")
 
 ## Fig. 4: U-Net++ Segmentation Outputs
 
 - **CHASE-DB1:** Accurately captures fine branches & bifurcations, closely matches ground truth (GT)  
 - **LES-AV:** Main vessels captured; minor deviations in low-contrast regions  
 
-![CHASE-DB1 Segmentation](images\prediction.png "CHASE-DB1 Predicted vs GT") 
+![CHASE-DB1 Segmentation](images.prediction.png "CHASE-DB1 Predicted vs GT") 
 *LES-AV and CHASE-DB1– Predicted vs Ground Truth*  
  
